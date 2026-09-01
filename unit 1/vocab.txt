@@ -1,0 +1,35 @@
+GitHub- A website to store, share, manage and host code and computing programs
+
+Repository- A digital space for building programs using code
+
+Code environment- A digital space for building programs using 
+code
+
+Computing Terminal- A digital machine that runs code programs
+
+Python- A programming language used to build a variety of software programs such as apps, games, and Ai tools
+
+Syntax - Is the word that we use to describe the writing rules of a programming language
+
+# STRING - characters that are wrapped within quotes.
+# characters can be leters, numbers, and symbols.
+# you can use both single and double quotation
+# marks for strings.
+# the hashtag is a marker that makes anything written behind it invisible to the computer
+
+Strings - The string data type is a type of value that represents characters that are generally used to communicate.
+
+#INTEGERS - The data type is a type of value that represents numbers that are generally used for calculation
+
+# FLOATS- A number with a decimal
+20.99
+3.339
+0.23
+
+# BOOLEAN- a data type that can only be either true or false
+# we do not use quotation marks for boolean values. the computer 
+# understand these words as something unique.
+
+'123 Main street'
+
+'this cost $100 dollars'
