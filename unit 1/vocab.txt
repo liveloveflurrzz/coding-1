@@ -33,3 +33,5 @@ Strings - The string data type is a type of value that represents characters tha
 '123 Main street'
 
 'this cost $100 dollars'
+#Variables are NOT data types but rather are a type of information container.
+# varibles allow for programmers to not only store data inside special containers by also makes it easier to re-use 
