@@ -38,3 +38,26 @@ OJ = 2.50
 Soda = 3.50
 
 
+
+
+
+# Variable Naming Conventions
+# We use naming conventions because we CANNOT have spaces in 
+# variable names
+
+# Camel Case - when creating varibale names with mulyiple words,
+# every new word begins with a capital letter
+# the reason why its called camel case is because every new word
+# represent a hump.
+
+usernamefornewinstagramaccounts = 0 #no camel case
+usernameForNewInstagramAccounts = #with camel case
+
+
+# Snake Case - when creating a variable using snake case
+# we use a underscore symbol to space out each new word
+# the reason why its called snake case is because the underscore
+# represents a snake on the ground new_word_
+usernamefornewinstagramaccounts # no snake case
+username_for_new_instagram_accounts
+
