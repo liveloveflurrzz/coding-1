@@ -1,0 +1,9 @@
+# 1. boolean, string, integers, floats.
+
+# 2. A code repository is like a storage capsule for code.
+
+# 3. Its an input device because with it you type/input things in.
+
+# 4. A variable is like a way of naming something in coding.
+
+# 5. if your naming something it can't start with an number.
