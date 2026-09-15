@@ -9,7 +9,7 @@ grade = 10
 school = True 
 
 # Arithmetic Operators- Used on numerical
-# data types to perfomr calculations.
+# data types to perform calculations.
 # intergers (whole numbers) and floats (decimal numbers)
 
 # print is a function that lets is show code
