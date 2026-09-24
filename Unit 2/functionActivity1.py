@@ -6,7 +6,14 @@
 # if its is lower we print false
 
 num1 = input("type in a number: ")
-print(int(num1) > 85)
+#print(int(num1) > 85)
 
-num1 = input("hey im here type something!!")
-print(360 + int(num2))
+num2 = input("hey you can write something: ") 
+#input always take data as a string
+print(int(num2) + 360)
+
+print("Booboohahha")
+
+val= input("")
+val2= "Boys Latin"
+print(val == val2)
