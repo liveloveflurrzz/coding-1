@@ -1,0 +1,8 @@
+# flappy bird is a game that is played by tapping your screen you can play either vertically
+# or horizontally. the goal of the game is to get as many points as you can by going through the pillars
+# and not hitting them.
+# There really isnt any room for discovery and creativity inside of flappy bird due to there being
+# only one objective of the game and only one mechanic.
+# the art style was a pixelated type of art style the bird was very pixelated 
+# the emotion it gave off couldve been anything from frustrating to calming or making you focus
+# the game was extremely addictive and due to that it was removed from all app stores causing the fall of flappy bird.
