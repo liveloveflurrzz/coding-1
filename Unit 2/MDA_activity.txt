@@ -5,4 +5,26 @@
 # only one objective of the game and only one mechanic.
 # the art style was a pixelated type of art style the bird was very pixelated 
 # the emotion it gave off couldve been anything from frustrating to calming or making you focus
-# the game was extremely addictive and due to that it was removed from all app stores causing the fall of flappy bird.
+# the game was extremely addictive and due to that it was removed from all app stores causing the fall of flappy bird
+
+
+
+
+
+
+#1. My Game Pitch
+#REPOPULATE: THE LAST HUMANITY is a simulator where you rescue survivors and rebuild civilization in a world full of zombies and mutants.
+
+#2. Player Actions
+#Players explore, collect resources, rescue survivors, build settlements, and fight zombies.
+
+#3. If the Player Succeeds
+#Players earn rewards, find survivors, unlock upgrades, and grow their civilization.
+
+#. If the Player Fails
+#Players can lose resources, survivors, and parts of their settlement.
+
+#5. Similar Games
+State of Decay 2
+They Are Billions
+Project Zomboid
