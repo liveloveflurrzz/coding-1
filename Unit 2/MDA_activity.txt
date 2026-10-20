@@ -21,7 +21,7 @@
 #3. If the Player Succeeds
 #Players earn rewards, find survivors, unlock upgrades, and grow their civilization.
 
-#. If the Player Fails
+#4. If the Player Fails
 #Players can lose resources, survivors, and parts of their settlement.
 
 #5. Similar Games
